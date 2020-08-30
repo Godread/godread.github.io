@@ -15,6 +15,7 @@ timezone: Asia/Shanghai
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://godread.github.io/godread.github.io
 root: /godread.github.io/
+# permalink: :year/:month/:day/:title/
 permalink: :title.html
 permalink_defaults:
 pretty_urls:
@@ -104,6 +105,5 @@ theme: icarus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  # repository: https://github.com/godread/godread.github.io
-  repository: git@github.com:nanchaoke/nanchaoke.github.io.git
+  repository: https://github.com/godread/godread.github.io
   branch: master
