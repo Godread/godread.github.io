@@ -1,11 +1,12 @@
 ---
 title: zepto.js 简单的可无限增加内容的 h5 滑屏效果
-categories: 
-- javascript
+categories:
+  - javascript
 tags:
-- h5
-- zepto.js
-thumbnail: http://it.godread.cn/cited/h5页面滑动图解.jpg
+  - h5
+  - zepto.js
+thumbnail: 'http://it.godread.cn/cited/h5页面滑动图解.jpg'
+abbrlink: da582b16
 date: 2018-01-14 07:22:46
 ---
 一个简单的 h5 页面，利用了 zepto.js 的一些 api，可以初步窥探 h5 效果的制作方式。其中尤其要注意的是滑动时的白页面问题，这与文档的结构有关，因此做了自动数量判断，用以解决对应序列页面的显隐。

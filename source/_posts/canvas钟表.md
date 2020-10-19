@@ -1,10 +1,11 @@
 ---
 title: canvas钟表
-categories: 
-- html5&css3
+categories:
+  - html5&css3
 tags:
-- canvas
-- cases
+  - canvas
+  - cases
+abbrlink: 8f5b3dc2
 date: 2017-09-10 12:33:14
 ---
 

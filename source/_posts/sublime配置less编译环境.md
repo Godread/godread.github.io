@@ -1,10 +1,11 @@
 ---
 title: sublime配置less编译环境
-categories: 
-- 工具
+categories:
+  - 工具
 tags:
-- sublime text3
-- less
+  - sublime text3
+  - less
+abbrlink: 725c7ed5
 date: 2017-08-11 19:18:32
 ---
 
