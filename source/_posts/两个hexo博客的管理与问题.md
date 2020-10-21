@@ -4,6 +4,7 @@ categories:
   - 工具
 tags:
   - hexo
+toc: true
 abbrlink: 49ec609a
 ---
 

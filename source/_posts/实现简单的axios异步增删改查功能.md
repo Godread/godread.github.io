@@ -3,14 +3,14 @@ title: 实现简单的axios异步增删改查功能
 categories:
   - javascript
 tags:
-  - 异步请求
   - ajax
   - axios
+  - 异步
 toc: true
 abbrlink: 6581d66
 ---
 
-> 手动实现一个简单的 axios 增删改查的功能封装，实现非 rest API 接口的数据请求，数据的模拟用 json-server 来实现
+>手动实现一个简单的 axios 增删改查的功能封装，实现非 rest API 接口的数据请求，数据的模拟用 json-server 来实现
 
 <!-- more -->
 
