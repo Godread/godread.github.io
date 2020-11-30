@@ -7,7 +7,7 @@ logo: http://write.godread.cn/permanent/Godread-long.png
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: http://write.godread.cn/permanent/Godread-favicon-nobg.png
+    favicon: https://write.godread.cn/permanent/godread_favicon_transparent.ico
     # Open Graph metadata
     # https://hexo.io/docs/helpers.html#open-graph
     open_graph:
