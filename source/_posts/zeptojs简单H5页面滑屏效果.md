@@ -15,7 +15,7 @@ date: 2018-01-14 07:22:46
 
 页面在滑动时，会滑动到相应次序的页面，如下图所示
 
-<img src="http://it.godread.cn/cited/h5页面滑动图解.jpg" alt="h5页面滑动图解"  />
+![h5页面滑动图解](http://it.godread.cn/cited/h5页面滑动图解.jpg)
 
 
 
@@ -351,4 +351,3 @@ function movePage(dir) {
 > 最后要注意的是，禁止页面的默认触摸事件，在 css 中的 .page 里设置 touch-action: none 即可。
 
 完整的项目：[zeptojs-h5](https://www.github.com/godread/zepto-h5)
-
