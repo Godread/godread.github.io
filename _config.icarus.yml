@@ -3,11 +3,11 @@ version: 4.0.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
 # Path or URL to the website's logo
-logo: http://write.godread.cn/permanent/Godread-long.png
+logo: /img/Godread-long.png
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: https://write.godread.cn/permanent/godread_favicon_transparent.ico
+    favicon: /img/Godread-favicon-nobg.png
     # Open Graph metadata
     # https://hexo.io/docs/helpers.html#open-graph
     open_graph:
@@ -111,7 +111,7 @@ article:
         # Default folding status of the code blocks. Can be "", "folded", "unfolded"
         fold: unfolded
     # Whether to show estimated article reading time
-    readtime: true
+    readtime: false
 # Search plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Search/
 search:
@@ -134,7 +134,7 @@ comment:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
 donates:
     # "Afdian.net" donate button configurations
-    # -http://write.godread.cn/permanent/wx-pay.jpg
+    # -
         # type: afdian
         # URL to the "Afdian.net" personal page
         # url: ''
@@ -142,7 +142,7 @@ donates:
     -
         type: alipay
         # Alipay qrcode image URL
-        qrcode: 'http://write.godread.cn/permanent/zfb-pay.jpg'
+        qrcode: '/img/zfb-pay.jpg'
     # "Buy me a coffee" donate button configurations
     # -
         # type: buymeacoffee
@@ -164,7 +164,7 @@ donates:
     -
         type: wechat
         # Wechat qrcode image URL
-        qrcode: 'http://write.godread.cn/permanent/wx-pay.jpg'
+        qrcode: '/img/wx-pay.jpg'
 # Share plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share/
 share:

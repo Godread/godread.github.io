@@ -6,7 +6,7 @@
 title: Godread
 subtitle: 'Godread技术博客'
 description: '没有背景 只有专业'
-keywords: Godread
+keywords: IT、web前端、PHP、小程序、微信开发、网站开发、技术研发、设计、全栈
 author: Godread
 language: zh-CN
 timezone: Asia/Shanghai
@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://godread.github.io/godread.github.io
-root: /godread.github.io/
+root: /
 # permalink: :year/:month/:day/:title/
 permalink: :abbrlink.html
 abbrlink:
@@ -34,6 +34,7 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+  - 404.html
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -110,3 +111,8 @@ deploy:
   type: git
   repository: https://github.com/Godread/godread.github.io.git
   branch: master
+
+# Security
+##
+encrypt:
+  enable: true

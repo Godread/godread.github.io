@@ -5,6 +5,7 @@ categories:
 tags:
   - hexo
 toc: true
+donates: false
 abbrlink: 49ec609a
 ---
 

@@ -5,6 +5,8 @@ categories:
 tags:
   - canvas
   - cases
+toc: true
+donates: false
 abbrlink: 8f5b3dc2
 date: 2017-09-10 12:33:14
 ---

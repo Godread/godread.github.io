@@ -7,6 +7,7 @@ tags:
   - axios
   - 异步
 toc: true
+donates: false
 abbrlink: 6581d66
 ---
 

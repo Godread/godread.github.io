@@ -6,6 +6,7 @@ tags:
   - 异步
   - ES6
 toc: true
+donates: false
 abbrlink: 32a89cf3
 ---
 
