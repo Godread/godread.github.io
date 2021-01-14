@@ -7,7 +7,7 @@ tags:
   - zepto.js
 toc: true
 donates: false
-thumbnail: https://upload.godread.cn/itblog/zeptojsjiandan_01.jpg
+thumbnail: https://upload.godread.cn/itblog/zeptojsjiandan.jpg
 abbrlink: da582b16
 date: 2018-01-14 07:22:46
 ---
@@ -17,7 +17,7 @@ date: 2018-01-14 07:22:46
 
 页面在滑动时，会滑动到相应次序的页面，如下图所示
 
-![h5页面滑动图解](https://upload.godread.cn/itblog/zeptojsjiandan_01.jpg)
+![h5页面滑动图解](https://upload.godread.cn/itblog/zeptojsjiandan.jpg)
 
 
 
