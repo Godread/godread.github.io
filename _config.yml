@@ -109,7 +109,8 @@ theme: icarus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/Godread/godread.github.io.git
+  repository: git@godread.github.com:godread/godread.github.io.git
+  # repository: https://github.com/Godread/godread.github.io.git
   branch: master
 
 # Security
