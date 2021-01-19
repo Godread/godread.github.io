@@ -10,6 +10,8 @@ abbrlink: 7a6a6b5a
 
 > 一个电脑上要使用多个github账号上传到不同的仓库时，如何建立SSH Key连接
 
+<!-- more -->
+
 #### **建立不同账号的SSH Key**
 
 首先创建SSH Key，如下
