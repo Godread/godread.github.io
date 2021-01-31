@@ -3,11 +3,11 @@ version: 4.0.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
 # Path or URL to the website's logo
-logo: /img/Godread-long.png
+logo: /img/Godread-long-new.png
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: /img/Godread-favicon-nobg.png
+    favicon: /img/Godread-favicon.png
     # Open Graph metadata
     # https://hexo.io/docs/helpers.html#open-graph
     open_graph:
