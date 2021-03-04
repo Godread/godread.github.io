@@ -1,3 +1,8 @@
+@font-face {
+  font-family: fzlthjt;
+  font-style: normal;
+  src: url("/fonts/方正兰亭黑简体.TTF");
+}
 @-moz-keyframes spinAround {
   from {
     transform: rotate(0deg);
@@ -11411,12 +11416,20 @@ figure.highlight .section {
   }
 }
 @media screen and (max-width: 768px) {
+  body {
+    font-family: fzlthjt;
+  }
   .section {
     padding: 1.5rem 1rem;
+  }
+  .content {
+    font-size: 17px;
+    line-height: 30px;
   }
 }
 body {
   counter-reset: card;
+  font-family: microsoft yahei;
 }
 ::selection {
   color: #000;
