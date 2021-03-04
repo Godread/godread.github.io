@@ -10792,6 +10792,8 @@ article.article .article-meta {
 article.article .content {
   word-wrap: break-word;
   font-size: 1.1rem;
+  font-size: 16px;
+  line-height: 30px;
 }
 article.article .content h1 {
   font-size: 1.75em;
@@ -11423,7 +11425,7 @@ figure.highlight .section {
     padding: 1.5rem 1rem;
   }
   .content {
-    font-size: 17px;
+    font-size: 18px;
     line-height: 30px;
   }
 }
